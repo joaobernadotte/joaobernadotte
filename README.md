@@ -1,7 +1,7 @@
 # Olá, eu sou o João! 👋
 
 ### 💻 Sobre mim
-- 🎓 Estudante de [Análise e Desenvolvimento de Sistemas].
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
 - 🎯 No momento, estou mergulhando de cabeça em **Programação Orientada a Objetos (POO)**.
 - 🚀 Buscando minha primeira oportunidade como Desenvolvedor Java.
 
@@ -16,5 +16,5 @@
 - [ ] Contribuir em algum projeto Open Source.
 
 ### 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovbernadotte@gmail.com)
