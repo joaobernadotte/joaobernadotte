@@ -14,7 +14,3 @@
 - [ ] Dominar os 4 pilares da POO.
 - [ ] Construir 3 projetos robustos para o portfólio.
 - [ ] Contribuir em algum projeto Open Source.
-
-### 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovbernadotte@gmail.com)
