@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o [Seu Nome]! 👋
 
-<!--
-**joaobernadotte/joaobernadotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Sobre mim
+- 🎓 Estudante de [Análise e Desenvolvimento de Sistemas].
+- 🎯 No momento, estou mergulhando de cabeça em **Programação Orientada a Objetos (POO)**.
+- 🚀 Buscando minha primeira oportunidade como Desenvolvedor Java.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias que estou aprendendo
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Meus objetivos para 2026
+- [ ] Dominar os 4 pilares da POO.
+- [ ] Construir 3 projetos robustos para o portfólio.
+- [ ] Contribuir em algum projeto Open Source.
+
+### 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](COLE_SEU_LINK_AQUI
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+
+---
+*“A única maneira de fazer um excelente trabalho é amar o que você faz.” – Steve Jobs*
