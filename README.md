@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o João! 👋
 
 ### 💻 Sobre mim
 - 🎓 Estudante de [Análise e Desenvolvimento de Sistemas].
